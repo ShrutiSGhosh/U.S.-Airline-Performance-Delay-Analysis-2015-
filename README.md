@@ -66,9 +66,9 @@ Analyze domestic flight data from the U.S. (2015) to identify trends in delays, 
 
 📦 us-airline-performance-project/
 ├── 📄 us_airline_analysis.sql # Full SQL script
-├── 📊 us_airline_performance.pbix # Power BI Dashboard
+├── 📊 us_airline_performance.pbix # Power BI Dashboard [(https://drive.google.com/file/d/1eSJW-Bcoyt4lBwFAoqxlt3qY8_6HQAyh/view?usp=sharing)]
 ├── 📄 us_airline_final_report.pdf # Final Word Report
-├── 📽️ us_airline_summary_video.mp4 # Video Summary (optional)
+├── 📽️ us_airline_summary_video.mp4 # Video Summary [(https://drive.google.com/file/d/1-CshoutPDoaYLkfTohEpOcRlHUe66Uzw/view?usp=sharing)]
 ├── 🖼️ visuals/ # Exported visual images (PNG)
 ├── 📄 README.md # This file
 
